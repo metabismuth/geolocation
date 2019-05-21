@@ -8,3 +8,5 @@ node index
 ```
 
 Then, open localhost:3000
+
+![Example](example.gif)
