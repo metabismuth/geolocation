@@ -1,0 +1,33 @@
+body {
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+}
+#map { height: 90vh }
+
+#top {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  height: 10vh;
+}
+
+#input {
+  margin: 0 auto;
+  line-height: 20px;
+  font-size: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#text {
+  display: block;
+  font-size: 20px;
+  border: 0;
+  height: 20px;
+  border-bottom: 2pt dashed #000;
+  background: #7c7c7c;
+  color: #fefefe;
+  padding: 10px 20px;
+  min-width: 20ch;
+}
+#go { float: right }
